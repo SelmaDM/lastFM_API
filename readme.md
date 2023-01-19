@@ -7,6 +7,9 @@ Assuming that express.js is already installed, run the following commands to use
 npm install 
 ```
 
+
+Add your  api key to   .env file
+
 ```  
 npm run devstart
 ```
