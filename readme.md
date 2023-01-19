@@ -13,3 +13,5 @@ npm run devstart
 
 The app can be accessed on this adresse : http://localhost:3000/
 
+##The final CSV file is stored in the root directory under the name artistdata
+
