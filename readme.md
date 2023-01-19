@@ -13,4 +13,3 @@ npm run devstart
 
 The app can be accessed on this adresse : http://localhost:3000/
 
-"# lastFM_API" 
